@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2269f8806811c5f42a0a9011e24f26ad, type: 3}
+  m_Name: Hard_Difficulty
+  m_EditorClassIdentifier: 
+  difficulty: 4
+  difficultyName: Hard
+  maxHits: 2
+  allowHits: 1
+  minSpeed: 11
+  maxSpeed: 13
+  randomizeSpeed: 1
+  spawnInterval: 0.3
+  maxObstaclesOnScreen: 28
+  enableEagle: 1
+  eagleChance: 0.3
+  eagleSpeed: 80
+  eagleWarningTime: 0.8
+  minHeight: 0.9
+  maxHeight: 1.3
+  minWidth: 0.8
+  maxWidth: 1.2
+  randomizeSize: 0
+  enablePowerups: 0
+  powerupChance: 0.1
+  pointsPerSecond: 10

@@ -1,0 +1,16 @@
+{
+    "name": "TemplateScripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f727361985493034589426e4e63986ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
